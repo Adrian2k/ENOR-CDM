@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/adbjnngs/public_html/cdm2
-    - /bin/cp test.txt $DEPLOYPATH
