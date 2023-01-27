@@ -1,5 +1,9 @@
 //-------VATSIM SCANDINAVIA - POLARIS FIR - CDM RATES -------// 
 //-------For permission to reuse, redistribute, or modify for use in other sector files, contact Magnus Rudjord or Adrian Bjerke. -------//
+ENGM:A:19R:19L:D:19R:19L:*:20_8
+ENGM:A:19L:19R:D:19L:19R:*:20_8
+ENGM:A:01L:01R:D:01L:01R:*:20_8
+ENGM:A:01R:01L:D:01R:01L:*:20_8
 ENGM:A:19R:19L:D:19L:19R:*:25_15
 ENGM:A:01R:01L:D:01L:01R:*:25_15
 ENGM:A:19L,19R:*:D:19L,19R:*:*:50_25
