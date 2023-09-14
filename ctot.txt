@@ -2,3 +2,4 @@
 //------- For permission to reuse, redistribute, or modify for use in other sector files, contact Magnus Rudjord or Adrian Bjerke. -------//
 
 //-- Format callsign,ctot --//
+FDX225,1855
