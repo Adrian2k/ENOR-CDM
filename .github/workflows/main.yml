@@ -14,6 +14,6 @@ jobs:
     - name: ?? Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.3.3
       with:
-        server: adbj.no
+        server: ftp.adbj.no
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
