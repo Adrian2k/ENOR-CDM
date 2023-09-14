@@ -1,19 +1,16 @@
-on: 
-  push:
-    branches:
-      - main
-name: ?? Deploy website on push
+on: push
+name: 🚀 Deploy website on push
 jobs:
   web-deploy:
-    name: ?? Deploy
+    name: 🎉 Deploy
     runs-on: ubuntu-latest
     steps:
-    - name: ?? Get latest code
-      uses: actions/checkout@v2
+    - name: 🚚 Get latest code
+      uses: actions/checkout@v3
     
-    - name: ?? Sync files
-      uses: SamKirkland/FTP-Deploy-Action@4.3.3
+    - name: 📂 Sync files
+      uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
-        server: 77.75.122.198
+        server: ftp.adbj.no
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
