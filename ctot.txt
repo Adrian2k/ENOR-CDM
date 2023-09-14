@@ -1,2 +1,4 @@
 //------- VATSIM SCANDINAVIA - POLARIS FIR - CDM CTOT -------// 
 //------- For permission to reuse, redistribute, or modify for use in other sector files, contact Magnus Rudjord or Adrian Bjerke. -------//
+
+//-- Format callsign,ctot --//
