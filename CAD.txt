@@ -1,7 +1,7 @@
 ##----- Capacity Availability Document -----##
 #--- ENXX ---#
 ENGM,30
-ENBR,20
+ENBR,25
 ENVA,20
 ENZV,20
 ENTC,18
